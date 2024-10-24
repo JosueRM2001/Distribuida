@@ -1,0 +1,10 @@
+C:\Users\USUARIO\Desktop\Universidad1\Calculadora2\Calculadora2\obj\Debug\Calculadora2.csproj.AssemblyReference.cache
+C:\Users\USUARIO\Desktop\Universidad1\Calculadora2\Calculadora2\obj\Debug\Calculadora2.Properties.Resources.resources
+C:\Users\USUARIO\Desktop\Universidad1\Calculadora2\Calculadora2\obj\Debug\Calculadora2.csproj.GenerateResource.cache
+C:\Users\USUARIO\Desktop\Universidad1\Calculadora2\Calculadora2\obj\Debug\Calculadora2.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\Desktop\Universidad1\Calculadora2\Calculadora2\bin\Debug\Calculadora2.exe.config
+C:\Users\USUARIO\Desktop\Universidad1\Calculadora2\Calculadora2\bin\Debug\Calculadora2.exe
+C:\Users\USUARIO\Desktop\Universidad1\Calculadora2\Calculadora2\bin\Debug\Calculadora2.pdb
+C:\Users\USUARIO\Desktop\Universidad1\Calculadora2\Calculadora2\obj\Debug\Calculadora2.exe
+C:\Users\USUARIO\Desktop\Universidad1\Calculadora2\Calculadora2\obj\Debug\Calculadora2.pdb
+C:\Users\USUARIO\Desktop\Universidad1\Calculadora2\Calculadora2\obj\Debug\Calculadora2.Form2.resources
